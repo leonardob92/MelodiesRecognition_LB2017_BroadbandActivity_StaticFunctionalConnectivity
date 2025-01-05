@@ -1,6 +1,6 @@
 Matlab leading script for the paper entitled: "Spatiotemporal whole-brain activity and functional connectivity of melodies recognition" published in Cerebral Cortex (2024). Bonetti, L., Brattico, E., Carlomagno, F., Cabral, J., Stevner, A., Deco, G., Whybrow, P.C., Pearce, M., Pantazis, D., Vuust, P., Kringelbach, M.L.
 
-LINK TO BE PROVIDED LATER
+https://academic.oup.com/cercor/article/34/8/bhae320/7728949
 
 Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
 
